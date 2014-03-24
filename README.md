@@ -1,4 +1,4 @@
-## lazyload
+## Lazyload for KISSY MINI
 
 * 版本：1.0
 * 教程：[http://gallery.kissyui.com/lazyload/1.0/guide/index.html](http://gallery.kissyui.com/lazyload/1.0/guide/index.html)
