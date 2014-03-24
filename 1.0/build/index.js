@@ -1,15 +1,15 @@
 /*
 combined files : 
 
-gallery/datalazyload/1.0/index
+gallery/lazyload/1.0/index
 
 */
 /**
  * @fileoverview 
  * @author 常胤<changyin@taobao.com>
- * @module datalazyload
+ * @module lazyload
  **/
-KISSY.add('gallery/datalazyload/1.0/index',function (S, Node) {
+KISSY.add('gallery/lazyload/1.0/index',function (S, Node) {
     var $ = Node.all, win = window;
 
     //默认设置
@@ -246,7 +246,7 @@ KISSY.add('gallery/datalazyload/1.0/index',function (S, Node) {
         destroy: function () {
             var self = this;
             self.pause();
-            S.log("datalazyload is destroyed!");
+            S.log("lazyload is destroyed!");
         }
 
     }

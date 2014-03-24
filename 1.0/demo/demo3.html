@@ -15,7 +15,7 @@
         debug: true,
         packages:[
             {
-                name:"gallery/datalazyload",
+                name:"gallery/lazyload",
                 path:srcPath,
                 charset:"utf-8",
                 ignorePackageNameInUri:true
@@ -24,7 +24,7 @@
     });
 
 
-    S.use('gallery/datalazyload/1.0/index', function (S, Datalazyload) {
+    S.use('gallery/lazyload/1.0/index', function (S, Datalazyload) {
         new Datalazyload({
             load: function(el){
                 console.log(el);

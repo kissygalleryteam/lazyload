@@ -1,7 +1,7 @@
 /**
  * @fileoverview 
  * @author 常胤<changyin@taobao.com>
- * @module datalazyload
+ * @module lazyload
  **/
 KISSY.add(function (S, Node, Lang) {
     var $ = Node.all,

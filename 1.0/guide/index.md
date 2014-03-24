@@ -4,12 +4,12 @@ Datalazyload是。
 
 * 版本：1.0
 * 作者：常胤
-* demo：[http://gallery.kissyui.com/datalazyload/1.0/demo/index.html](http://gallery.kissyui.com/datalazyload/1.0/demo/index.html)
+* demo：[http://gallery.kissyui.com/lazyload/1.0/demo/index.html](http://gallery.kissyui.com/lazyload/1.0/demo/index.html)
 
 ## 初始化组件
 		
-    S.use('gallery/datalazyload/1.0/index', function (S, Datalazyload) {
-         var datalazyload = new Datalazyload();
+    S.use('gallery/lazyload/1.0/index', function (S, Datalazyload) {
+         var lazyload = new Datalazyload();
     })
 	
 	
@@ -19,7 +19,7 @@ Datalazyload是。
 
 
 -  v0.01
--  [文档地址](http://changyin.demo.taobao.net/datalazyload/)
+-  [文档地址](http://changyin.demo.taobao.net/lazyload/)
 
 
 
@@ -64,7 +64,7 @@ destroy()
 ### 示例
 
 
-KISSY.use("datalazyload",function(S,DataLazyLoad){
+KISSY.use("lazyload",function(S,DataLazyLoad){
 
 new DataLazyLoad({
 load: function(el){
@@ -81,12 +81,12 @@ alert("加载完毕");
 
 ### DEMO
 
--  [普通demo](http://changyin.demo.taobao.net/datalazyload/demo/demo1.html)
--  [横向测试](http://changyin.demo.taobao.net/datalazyload/demo/demo2.html)
--  [淘宝detail](http://changyin.demo.taobao.net/datalazyload/demo/demo3.html)
+-  [普通demo](http://changyin.demo.taobao.net/lazyload/demo/demo1.html)
+-  [横向测试](http://changyin.demo.taobao.net/lazyload/demo/demo2.html)
+-  [淘宝detail](http://changyin.demo.taobao.net/lazyload/demo/demo3.html)
 
 
 
 ### 移动设备测试
 
-![DataLazyload](http://ma.taobao.com/qrcode/qrcode.do?activity=preview&text=http%253A%252F%252Fchangyin.demo.taobao.net%252Fdatalazyload%252F&width=300&height=300&characterSet=gbk&channel_id&channel_name=)
+![DataLazyload](http://ma.taobao.com/qrcode/qrcode.do?activity=preview&text=http%253A%252F%252Fchangyin.demo.taobao.net%252Flazyload%252F&width=300&height=300&characterSet=gbk&channel_id&channel_name=)

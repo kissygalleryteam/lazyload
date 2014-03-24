@@ -1,17 +1,18 @@
 {
-    "name": "datalazyload",
-    "comName":"Datalazyload",
+    "name": "lazyload",
+    "comName": "Datalazyload",
     "version": "1.0",
-    "desc": "",
-    "tag":"lazyload,kissy-mini",
-    "githubName":"satans17@gmail.com",
+    "cover": "http://gtms02.alicdn.com/tps/i2/T1FQ_tFxlfXXcStm_S-300-120.jpg",
+    "desc": "基于KISSY MINI的懒加载组件",
+    "tag": "lazyload,kissy-mini",
+    "githubName": "satans17@gmail.com",
     "author": {
         "name": "常胤",
         "email": "changyin@taobao.com",
         "page": ""
     },
-	"flexComboPort":"81",
-	"reserveServerPort":"82",
+    "flexComboPort": "81",
+    "reserveServerPort": "82",
     "type": "kissy-gallery",
     "type-url": "http://gallery.kissyui.com/guide"
 }

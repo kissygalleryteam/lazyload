@@ -1,3 +1,3 @@
 config({
-    'gallery/datalazyload/index': {requires: ['node','base']}
+    'gallery/lazyload/index': {requires: ['node','base']}
 });

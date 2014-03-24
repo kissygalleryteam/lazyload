@@ -1,3 +1,3 @@
 config({
-    'gallery/datalazyload/index': {alias: ['gallery/datalazyload/1.0/index']}
+    'gallery/lazyload/index': {alias: ['gallery/lazyload/1.0/index']}
 });

@@ -1,7 +1,7 @@
 /**
  * @fileoverview 
  * @author 常胤<changyin@taobao.com>
- * @module datalazyload
+ * @module lazyload
  **/
 KISSY.add(function (S, Node) {
     var $ = Node.all, win = window;
@@ -240,7 +240,7 @@ KISSY.add(function (S, Node) {
         destroy: function () {
             var self = this;
             self.pause();
-            S.log("datalazyload is destroyed!");
+            S.log("lazyload is destroyed!");
         }
 
     }
